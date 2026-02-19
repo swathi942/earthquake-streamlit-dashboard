@@ -38,6 +38,5 @@ methods.
 - SQL-based data analysis
 
 ---
-```bash
-pip install -r requirements.txt
-streamlit run app
+## How to Run
+streamlit run app.py
