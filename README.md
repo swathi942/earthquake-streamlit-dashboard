@@ -26,7 +26,7 @@ methods.
 - MySQL
 - Streamlit
 - Pandas
-  
+- pymysql  
 
 ---
 
@@ -34,8 +34,6 @@ methods.
 - Top 10 strongest earthquakes
 - Year-wise earthquake trends
 - Depth vs magnitude analysis
-- Tsunami vs non-tsunami comparison
-- SQL-based data analysis
 
 ---
 ## How to Run
